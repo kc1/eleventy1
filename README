@@ -3,3 +3,5 @@ keyring = vscode1
 https://www.netlifycms.org/docs/add-to-your-site/
 
 https://www.netlifycms.org/docs/collection-types/#file-collections
+
+git push origin main
